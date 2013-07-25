@@ -1,0 +1,8 @@
+*.suo
+*/bin
+*/obj
+test.db
+*.ReSharper.*
+_ReSharper*
+packages/*
+*.DotSettings.user
